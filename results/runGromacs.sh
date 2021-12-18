@@ -1,9 +1,4 @@
-#!/bin/bash
-#Author: Thibault Tubiana, PhD, 2020
-#Version: 1.3.0
 
-#activate acpype environment
-#conda activate acpype
 
 #---------  FILE SETUP  -----------
 #PDB FILE, will be replace in the code later by $PDB
